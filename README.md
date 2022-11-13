@@ -1,4 +1,4 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+![MasterHead][![@g_moksh's Holopin board](https://holopin.me/g_moksh)](https://holopin.io/@g_moksh)
 <h1 align="center">Hi 👋, I'm Moksh Gupta</h1>
 <h3 align="center">A passionate frontend developer from India and Currently Pursuing Bachelors in Computer Science and Technology. As of now I am learning Data Structures and Algorithms and as well as trying out my hands in Machine learning through building projects.</h3>
 <img aling="right" alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76114e6ab9e152d0b423e133bd9233aac7048cfecb20&rid=giphy.gif&ct=g"
