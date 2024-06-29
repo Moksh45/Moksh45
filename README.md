@@ -35,7 +35,7 @@
 ### Technical Skills
 - **Languages & Databases:** Python, C/C++, HTML/CSS, JavaScript/TypeScript, React, Express/Fastify, NestJS, MongoDB, MySQL
 - **Developer Tools:** VS Code, Git, Jira, Slack, Postman, GitHub, Docker, GitLab
-- **Operating Systems:** Windows, Linux
+- **Operating Systems:** Windows, Linux, Mac
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
