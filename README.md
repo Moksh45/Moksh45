@@ -1,7 +1,7 @@
 [![@g_moksh's Holopin board](https://holopin.me/g_moksh)](https://holopin.io/@g_moksh)
 <h1 align="center">Hi 👋, I'm Moksh Gupta</h1>
 <h3 align="center">A passionate software engineer from India, currently pursuing a Bachelor's in Computer Science and Technology. I have experience in frontend development, backend development, and integration pipeline automation. Currently, I'm enhancing my skills in backend development, React, and Data Structures and Algorithms.</h3>
-<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76114e6ab9e152d0b423e133bd9233aac7048cfecb20&rid=giphy.gif&ct=g">
+<img align="right" alt="Coding" width="350" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76114e6ab9e152d0b423e133bd9233aac7048cfecb20&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moksh45&label=Profile%20views&color=0e75b6&style=flat" alt="moksh45" /> </p>
 
