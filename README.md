@@ -5,11 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moksh45&label=Profile%20views&color=0e75b6&style=flat" alt="moksh45" /> </p>
 
-- 🔭 I’m currently building [DevToolLab](https://devtoollab.com/), a platform offering developer tools and technical blogs to streamline development and debugging
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/Moksh45)
-- 👯 I’m looking to collaborate on **Open Source Projects**
-- 📫 How to reach me: **mokshgupta567@gmail.com**
-- 🌐 My Portfolio: [mokshportfolio.com](https://portfolio-moksh45s-projects.vercel.app/)
+- 🔭 Currently building [**DevToolLab**](https://devtoollab.com/) – a platform that provides powerful developer tools and insightful technical blogs to simplify coding and debugging.  
+- 👨‍💻 Check out all my projects on [**GitHub**](https://github.com/Moksh45).  
+- 👯 Open to collaborating on exciting **Open Source Projects**.  
+- 📫 Reach me at: **mokshgupta567@gmail.com**  
+- 🌐 Explore my work: [**mokshportfolio.com**](https://portfolio-moksh45s-projects.vercel.app/)
+
+Let me know if you'd like to add your tech stack or a fun fact too!
 
 ### Experience
 
