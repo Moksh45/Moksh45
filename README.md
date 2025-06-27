@@ -15,7 +15,7 @@ Let me know if you'd like to add your tech stack or a fun fact too!
 
 ### Experience
 
-**Software Engineer Intern — Linktoany** (Nov 2023 - Present)
+**Software Engineer — Linktoany** (Nov 2023 - Present)
 - Developed integration pipeline automation, reducing creation time by 55%.
 - Improved HubSpot and EZ Texting integration for seamless data flow.
 - Engineered the GoDaddy Connector Refresh Worker for secure application functionality.
